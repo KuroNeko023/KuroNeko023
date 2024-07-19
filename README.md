@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KuroNeko023
 - 👀 I’m interested in Game/App Development
-- 🌱 I’m currently learning SAP ABAP, FIORI, JS
-- 💞️ I’m looking to collaborate on nothing at the moment but likely in the future
+- 🌱 I’m currently learning SAP ABAP, FIORI, JS, Python
 - 📫 How to reach me: bakalion02@gmail.com
 
 <!---
